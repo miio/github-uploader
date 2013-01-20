@@ -1,0 +1,21 @@
+{
+  "name": "github-uploader",
+  "version": "0.0.1",
+  "dependencies": {
+    "appjs": "0.0.20",
+    "passport": "",
+    "passport-github": ""
+  },
+  "devDependencies": {
+    "coffee-script": "1.4.0",
+    "mocha": "1.6.0",
+    "should": "1.2.0",
+    "sinon": "1.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
